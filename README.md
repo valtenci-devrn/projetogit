@@ -1,2 +1,1 @@
-# projetogit
-Projeto git
+Primeiro projeto Git.
